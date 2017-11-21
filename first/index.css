@@ -1,0 +1,29 @@
+.gun_metal {
+    background-color: #5B5857;
+    margin: 0vh;
+    padding: 0vh;
+    height: 20vh;
+}
+
+.light_gray {
+    border-left: 20vh solid #DBD9D7;
+    border-right: 20vh solid #DBD9D7;
+    border-top: 0vh;
+    border-bottom: 0vh;
+    padding:0vh;
+    margin:0vh; 
+    height: 100vh;
+}
+
+footer {
+    border-left: 20vh solid #DBD9D7;
+    border-right: 20vh solid #DBD9D7;
+    border-top: 0vh;
+    border-bottom: 0vh;
+    padding:0vh;
+    margin:0vh;
+    background-color:#302F2E;
+    height: 10vh; 
+}
+
+
